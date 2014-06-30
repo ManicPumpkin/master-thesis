@@ -1,0 +1,1 @@
+Dies ist ein Test, um die Git-Crypt zu testen!
