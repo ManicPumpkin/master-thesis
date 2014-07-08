@@ -3,3 +3,4 @@ secretfile filter=git-crypt diff=git-crypt
 *.txt filter=git-crypt diff=git-crypt
 *.tex filter=git-crypt diff=git-crypt
 *.java filter=git-crypt diff=git-crypt
+*.JPG filter=git-crypt diff=git-crypt

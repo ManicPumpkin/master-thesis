@@ -1,5 +1,8 @@
 *.class
 
+# Image Folders
+src/org/
+
 # LaTeX Files
 *.pdf
 *.toc
