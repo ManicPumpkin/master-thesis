@@ -1,8 +1,46 @@
-\begin{thebibliography}{1}
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem{EFFDIP00}
-Nick Efford.
-\newblock {\em Digital Image Processing - A Practical Introduction Using Java}.
-\newblock Addison-Wesley, Amsterdam, pap/cdr edition, 2000.
+\entry{EFFDIP00}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Efford}{E.}%
+     {Nick}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Addison-Wesley}%
+  }
+  \strng{namehash}{EN1}
+  \strng{fullhash}{EN1}
+  \field{labelalpha}{Eff00}
+  \field{sortinit}{E}
+  \field{edition}{Pap/Cdr}
+  \field{isbn}{978-0-201-59623-6}
+  \field{title}{Digital Image Processing - A Practical Introduction Using Java}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2000}
+\endentry
 
-\end{thebibliography}
+\lossort
+\endlossort
+
+\endinput
