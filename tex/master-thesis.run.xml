@@ -41,11 +41,10 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>master-thesis.aux</file>
-      <file>master-thesis-blx.bib</file>
+      <file>master-thesis.bcf</file>
     </provides>
     <requires type="dynamic">
       <file>master-thesis.bbl</file>
@@ -60,15 +59,14 @@
       <file>german.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
-    <generic>bibtex</generic>
+  <external package="biblatex" priority="5" active="1">
+    <generic>biber</generic>
     <cmdline>
-      <binary>bibtex</binary>
-      <option>-min-crossrefs 2</option>
+      <binary>biber</binary>
       <infile>master-thesis</infile>
     </cmdline>
     <input>
-      <file>master-thesis.aux</file>
+      <file>master-thesis.bcf</file>
     </input>
     <output>
       <file>master-thesis.bbl</file>
@@ -77,14 +75,10 @@
       <file>master-thesis.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>master-thesis.aux</file>
-      <file>master-thesis-blx.bib</file>
+      <file>master-thesis.bcf</file>
     </requires>
     <requires type="editable">
       <file>lecture.bib</file>
-    </requires>
-    <requires type="static">
-      <file>biblatex.bst</file>
     </requires>
   </external>
 </requests>
