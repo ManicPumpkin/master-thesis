@@ -16,6 +16,23 @@
   {}
 \endgroup
 
+\entry{GOLME13}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Golz}{G.}%
+     {Martin}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GM1}
+  \strng{fullhash}{GM1}
+  \field{labelalpha}{Gol13}
+  \field{sortinit}{G}
+  \field{note}{Kapitel 3}
+  \field{title}{Mustererkennung}
+  \field{year}{2013}
+\endentry
+
 \entry{JAEDBV05}{book}{}
   \name{author}{1}{}{%
     {{}%
