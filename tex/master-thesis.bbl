@@ -1,0 +1,46 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{JAEDBV05}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jähne}{J.}%
+     {Bernd}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer London, Limited}%
+  }
+  \strng{namehash}{JB1}
+  \strng{fullhash}{JB1}
+  \field{labelalpha}{Jä05}
+  \field{sortinit}{J}
+  \field{edition}{6. Aufl.}
+  \field{isbn}{978-3-540-27384-4}
+  \field{title}{Digitale Bildverarbeitung}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{2005}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
