@@ -15,6 +15,11 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: master-thesis-blx.bib
 Database file #2: lecture.bib
+I was expecting a `,' or a `}'---line 89 of file lecture.bib
+ :  
+ :  YEAR   = {2013}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Biblatex version: 1.7
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
@@ -59,3 +64,4 @@ warning$ -- 0
 while$ -- 70
 width$ -- 0
 write$ -- 43
+(There was 1 error message)
