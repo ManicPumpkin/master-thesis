@@ -5,6 +5,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {todo}{picture reference}{7}
 \defcounter {refsection}{0}\relax 
+\contentsline {todo}{used tools}{7}
+\defcounter {refsection}{0}\relax 
 \contentsline {todo}{impl monitor}{9}
 \defcounter {refsection}{0}\relax 
 \contentsline {todo}{impl monitor name}{9}
@@ -14,3 +16,15 @@
 \contentsline {todo}{insert specification}{11}
 \defcounter {refsection}{0}\relax 
 \contentsline {todo}{add pictures}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {todo}{segmentation general}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {todo}{pixel segmetation}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {todo}{edge segmentation}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {todo}{region segmentation}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {todo}{model segmentation}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {todo}{other segmentation methods}{14}
