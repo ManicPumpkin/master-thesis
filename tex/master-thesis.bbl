@@ -16,6 +16,31 @@
   {}
 \endgroup
 
+\entry{EFFDIP00}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Efford}{E.}%
+     {Nick}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Addison-Wesley}%
+  }
+  \strng{namehash}{EN1}
+  \strng{fullhash}{EN1}
+  \field{shorthand}{EFFDIP00}
+  \field{label}{EFFDIP00}
+  \field{sortinit}{E}
+  \field{edition}{Pap/Cdr}
+  \field{isbn}{978-0-201-59623-6}
+  \field{title}{Digital Image Processing - A Practical Introduction Using Java}
+  \list{location}{1}{%
+    {Amsterdam}%
+  }
+  \field{year}{2000}
+\endentry
+
 \entry{GOLME13}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -26,18 +51,44 @@
   }
   \strng{namehash}{GM1}
   \strng{fullhash}{GM1}
-  \field{labelalpha}{Gol13}
+  \field{shorthand}{GOLME13}
+  \field{label}{GOLME13}
   \field{sortinit}{G}
   \field{note}{Kapitel 3}
   \field{title}{Mustererkennung}
   \field{year}{2013}
 \endentry
 
+\entry{GONDIP01}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gonzalez}{G.}%
+     {Richard~E.}{R.~E.}%
+     {}{}%
+     {Rafael C. und~Woods}{R.~C. u.~W.}}%
+  }
+  \list{publisher}{1}{%
+    {Addison-Wesley Longman Publishing Co., Inc.}%
+  }
+  \strng{namehash}{GRCuWRE1}
+  \strng{fullhash}{GRCuWRE1}
+  \field{shorthand}{GONDIP01}
+  \field{label}{GONDIP01}
+  \field{sortinit}{G}
+  \field{edition}{2. Aufl.}
+  \field{isbn}{0-201-18075-8}
+  \field{title}{Digital Image Processing}
+  \list{location}{1}{%
+    {Boston, MA, USA}%
+  }
+  \field{year}{2001}
+\endentry
+
 \entry{JAEDBV05}{book}{}
   \name{author}{1}{}{%
     {{}%
-     {Jähne}{J.}%
-     {Bernd}{B.}%
+     {{J}ähne}{J.}%
+     {{B}ernd}{B.}%
      {}{}%
      {}{}}%
   }
@@ -46,7 +97,8 @@
   }
   \strng{namehash}{JB1}
   \strng{fullhash}{JB1}
-  \field{labelalpha}{Jä05}
+  \field{shorthand}{JAEDBV05}
+  \field{label}{JAEDBV05}
   \field{sortinit}{J}
   \field{edition}{6. Aufl.}
   \field{isbn}{978-3-540-27384-4}
@@ -57,7 +109,136 @@
   \field{year}{2005}
 \endentry
 
+\entry{JAFIP89}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jain}{J.}%
+     {Anil~K.}{A.~K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Prentice Hall}%
+  }
+  \strng{namehash}{JAK1}
+  \strng{fullhash}{JAK1}
+  \field{shorthand}{JAFIP89}
+  \field{label}{JAFIP89}
+  \field{sortinit}{J}
+  \field{edition}{1. Aufl.}
+  \field{isbn}{978-0-133-32578-2}
+  \field{title}{Fundamentals of Digital Image Processing}
+  \list{location}{1}{%
+    {London}%
+  }
+  \field{year}{1989}
+\endentry
+
+\entry{MIEMTS07}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Miehlke}{M.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MA1}
+  \strng{fullhash}{MA1}
+  \field{shorthand}{MIEMTS07}
+  \field{label}{MIEMTS07}
+  \field{sortinit}{M}
+  \field{title}{Entwicklung eines Motion Tracking-Systems zur
+  Positionssteruerung per Handbewegung}
+  \list{institution}{1}{%
+    {University of Applied Sciences Berlin}%
+  }
+  \field{type}{Diplomarbeit}
+  \field{year}{2007}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{RKDIP82-1}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rosenfeld}{R.}%
+     {Avinash~C.}{A.~C.}%
+     {}{}%
+     {Azriel und~Kak}{A.~u.~K.}}%
+  }
+  \list{publisher}{1}{%
+    {Academic Press, Inc.}%
+  }
+  \keyw{DIGITAL IMAGE PROCESSING}
+  \strng{namehash}{RAuKAC1}
+  \strng{fullhash}{RAuKAC1}
+  \field{shorthand}{RKDIP82-1}
+  \field{label}{RKDIP82-1}
+  \field{sortinit}{R}
+  \field{title}{Digital Picture Processing Vol. 1}
+  \field{annotation}{%
+  SIGNATUR = 704.520%
+  }
+  \field{year}{1982}
+\endentry
+
+\entry{RKDIP32-2}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rosenfeld}{R.}%
+     {Avinash~C.}{A.~C.}%
+     {}{}%
+     {Azriel und~Kak}{A.~u.~K.}}%
+  }
+  \list{publisher}{1}{%
+    {Academic Press, Inc.}%
+  }
+  \keyw{DIGITAL IMAGE PROCESSING}
+  \strng{namehash}{RAuKAC1}
+  \strng{fullhash}{RAuKAC1}
+  \field{shorthand}{RKDIP82-2}
+  \field{label}{RKDIP82-2}
+  \field{sortinit}{R}
+  \field{title}{Digital Picture Processing Volume 2}
+  \field{annotation}{%
+  SIGNATUR = 704.523%
+  }
+  \field{year}{1982}
+\endentry
+
+\entry{STEBVP93}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinbrecher}{S.}%
+     {Rainer}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oldenbourg R. Verlag GmbH}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{shorthand}{STEBVP93}
+  \field{label}{STEBVP93}
+  \field{sortinit}{S}
+  \field{isbn}{978-3-486-22372-9}
+  \field{title}{Bildverarbeitung in der Praxis -}
+  \list{location}{1}{%
+    {München}%
+  }
+  \field{year}{1993}
+\endentry
+
 \lossort
+  \key{EFFDIP00}
+  \key{GOLME13}
+  \key{GONDIP01}
+  \key{JAEDBV05}
+  \key{JAFIP89}
+  \key{MIEMTS07}
+  \key{RKDIP82-1}
+  \key{RKDIP32-2}
+  \key{STEBVP93}
 \endlossort
 
 \endinput
