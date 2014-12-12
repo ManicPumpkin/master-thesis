@@ -20,45 +20,45 @@ Warning--entry type for "MIEMTS07" isn't style-file defined
 Biblatex version: 1.7
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 10 entries,
+You've used 6 entries,
             6019 wiz_defined-function locations,
-            1192 strings with 9164 characters,
-and the built_in function-call counts, 33323 in all, are:
-= -- 1767
-> -- 1019
-< -- 465
-+ -- 410
-- -- 253
-* -- 1801
-:= -- 1855
+            1162 strings with 8712 characters,
+and the built_in function-call counts, 19293 in all, are:
+= -- 1041
+> -- 597
+< -- 269
++ -- 256
+- -- 151
+* -- 997
+:= -- 1159
 add.period$ -- 0
-call.type$ -- 10
-change.case$ -- 332
+call.type$ -- 6
+change.case$ -- 193
 chr.to.int$ -- 37
-cite$ -- 36
-duplicate$ -- 3638
-empty$ -- 3364
-format.name$ -- 451
-if$ -- 7840
+cite$ -- 20
+duplicate$ -- 2041
+empty$ -- 1918
+format.name$ -- 246
+if$ -- 4544
 int.to.chr$ -- 0
-int.to.str$ -- 33
+int.to.str$ -- 16
 missing$ -- 0
-newline$ -- 243
-num.names$ -- 643
-pop$ -- 2869
+newline$ -- 141
+num.names$ -- 360
+pop$ -- 1615
 preamble$ -- 1
-purify$ -- 341
+purify$ -- 198
 quote$ -- 0
-skip$ -- 2160
+skip$ -- 1254
 stack$ -- 0
-substring$ -- 1441
-swap$ -- 1257
-text.length$ -- 241
-text.prefix$ -- 9
+substring$ -- 900
+swap$ -- 703
+text.length$ -- 141
+text.prefix$ -- 5
 top$ -- 1
-type$ -- 363
+type$ -- 211
 warning$ -- 0
-while$ -- 211
+while$ -- 138
 width$ -- 0
-write$ -- 232
+write$ -- 134
 (There was 1 warning)
