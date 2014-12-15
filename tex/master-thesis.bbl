@@ -131,12 +131,37 @@
   \field{year}{1982}
 \endentry
 
+\entry{RKDIP82-2}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rosenfeld}{R.}%
+     {Avinash~C.}{A.~C.}%
+     {}{}%
+     {Azriel und~Kak}{A.~u.~K.}}%
+  }
+  \list{publisher}{1}{%
+    {Academic Press, Inc.}%
+  }
+  \keyw{DIGITAL IMAGE PROCESSING}
+  \strng{namehash}{RAuKAC1}
+  \strng{fullhash}{RAuKAC1}
+  \field{shorthand}{RKDIP82-2}
+  \field{label}{RKDIP82-2}
+  \field{sortinit}{R}
+  \field{title}{Digital Picture Processing Volume 2}
+  \field{annotation}{%
+  SIGNATUR = 704.523%
+  }
+  \field{year}{1982}
+\endentry
+
 \lossort
   \key{GOLME13}
   \key{GONDIP01}
   \key{JAEDBV05}
   \key{MIEMTS07}
   \key{RKDIP82-1}
+  \key{RKDIP82-2}
 \endlossort
 
 \endinput

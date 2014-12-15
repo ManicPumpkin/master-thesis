@@ -2,6 +2,10 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master-thesis.aux
 The style file: biblatex.bst
+White space in argument---line 173 of file master-thesis.aux
+ : \citation{auch
+ :                bekannt als \enquote {Gray Level Thresholding}; }
+I'm skipping whatever remains of this command
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -16,49 +20,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: master-thesis-blx.bib
 Database file #2: lecture.bib
 Warning--entry type for "MIEMTS07" isn't style-file defined
---line 94 of file lecture.bib
+--line 107 of file lecture.bib
 Biblatex version: 1.7
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 6 entries,
+You've used 7 entries,
             6019 wiz_defined-function locations,
-            1162 strings with 8712 characters,
-and the built_in function-call counts, 19293 in all, are:
-= -- 1041
-> -- 597
-< -- 269
-+ -- 256
-- -- 151
-* -- 997
-:= -- 1159
+            1166 strings with 8783 characters,
+and the built_in function-call counts, 22660 in all, are:
+= -- 1207
+> -- 705
+< -- 313
++ -- 291
+- -- 178
+* -- 1193
+:= -- 1334
 add.period$ -- 0
-call.type$ -- 6
-change.case$ -- 193
+call.type$ -- 7
+change.case$ -- 222
 chr.to.int$ -- 37
-cite$ -- 20
-duplicate$ -- 2041
-empty$ -- 1918
-format.name$ -- 246
-if$ -- 4544
+cite$ -- 24
+duplicate$ -- 2423
+empty$ -- 2268
+format.name$ -- 301
+if$ -- 5335
 int.to.chr$ -- 0
-int.to.str$ -- 16
+int.to.str$ -- 21
 missing$ -- 0
-newline$ -- 141
-num.names$ -- 360
-pop$ -- 1615
+newline$ -- 166
+num.names$ -- 428
+pop$ -- 1931
 preamble$ -- 1
-purify$ -- 198
+purify$ -- 228
 quote$ -- 0
-skip$ -- 1254
+skip$ -- 1470
 stack$ -- 0
-substring$ -- 900
-swap$ -- 703
-text.length$ -- 141
-text.prefix$ -- 5
+substring$ -- 1008
+swap$ -- 832
+text.length$ -- 166
+text.prefix$ -- 6
 top$ -- 1
-type$ -- 211
+type$ -- 249
 warning$ -- 0
-while$ -- 138
+while$ -- 157
 width$ -- 0
-write$ -- 134
-(There was 1 warning)
+write$ -- 158
+(There was 1 error message)
