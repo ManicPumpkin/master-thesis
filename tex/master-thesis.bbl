@@ -155,6 +155,30 @@
   \field{year}{1982}
 \endentry
 
+\entry{STEBVP93}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steinbrecher}{S.}%
+     {Rainer}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oldenbourg R. Verlag GmbH}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{shorthand}{STEBVP93}
+  \field{label}{STEBVP93}
+  \field{sortinit}{S}
+  \field{isbn}{978-3-486-22372-9}
+  \field{title}{Bildverarbeitung in der Praxis -}
+  \list{location}{1}{%
+    {München}%
+  }
+  \field{year}{1993}
+\endentry
+
 \lossort
   \key{GOLME13}
   \key{GONDIP01}
@@ -162,6 +186,7 @@
   \key{MIEMTS07}
   \key{RKDIP82-1}
   \key{RKDIP82-2}
+  \key{STEBVP93}
 \endlossort
 
 \endinput

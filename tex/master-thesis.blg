@@ -2,10 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master-thesis.aux
 The style file: biblatex.bst
-White space in argument---line 173 of file master-thesis.aux
- : \citation{auch
- :                bekannt als \enquote {Gray Level Thresholding}; }
-I'm skipping whatever remains of this command
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -24,45 +20,45 @@ Warning--entry type for "MIEMTS07" isn't style-file defined
 Biblatex version: 1.7
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 7 entries,
+You've used 8 entries,
             6019 wiz_defined-function locations,
-            1166 strings with 8783 characters,
-and the built_in function-call counts, 22660 in all, are:
-= -- 1207
-> -- 705
-< -- 313
-+ -- 291
-- -- 178
-* -- 1193
-:= -- 1334
+            1174 strings with 8905 characters,
+and the built_in function-call counts, 26449 in all, are:
+= -- 1423
+> -- 817
+< -- 371
++ -- 338
+- -- 203
+* -- 1391
+:= -- 1515
 add.period$ -- 0
-call.type$ -- 7
-change.case$ -- 222
+call.type$ -- 8
+change.case$ -- 266
 chr.to.int$ -- 37
-cite$ -- 24
-duplicate$ -- 2423
-empty$ -- 2268
-format.name$ -- 301
-if$ -- 5335
+cite$ -- 28
+duplicate$ -- 2848
+empty$ -- 2646
+format.name$ -- 351
+if$ -- 6234
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 25
 missing$ -- 0
-newline$ -- 166
-num.names$ -- 428
-pop$ -- 1931
+newline$ -- 191
+num.names$ -- 507
+pop$ -- 2245
 preamble$ -- 1
-purify$ -- 228
+purify$ -- 273
 quote$ -- 0
-skip$ -- 1470
+skip$ -- 1722
 stack$ -- 0
-substring$ -- 1008
-swap$ -- 832
-text.length$ -- 166
-text.prefix$ -- 6
+substring$ -- 1189
+swap$ -- 977
+text.length$ -- 191
+text.prefix$ -- 7
 top$ -- 1
-type$ -- 249
+type$ -- 287
 warning$ -- 0
-while$ -- 157
+while$ -- 175
 width$ -- 0
-write$ -- 158
-(There was 1 error message)
+write$ -- 182
+(There was 1 warning)
