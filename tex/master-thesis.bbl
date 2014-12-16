@@ -107,6 +107,31 @@
   \warn{\item Invalid format of field 'month'}
 \endentry
 
+\entry{PRADIP07}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{P}ratt}{P.}%
+     {{J}ames E.~{A}dams}{J.~E.~A.}%
+     {}{}%
+     {{W}illiam K. und~Jr.}{W.~K. u.~J.}}%
+  }
+  \list{publisher}{1}{%
+    {PixelSoft, Inc.}%
+  }
+  \strng{namehash}{PWKuJJEA1}
+  \strng{fullhash}{PWKuJJEA1}
+  \field{shorthand}{PRADIP07}
+  \field{label}{PRADIP07}
+  \field{sortinit}{P}
+  \field{edition}{4. Aufl.}
+  \field{isbn}{978-3-540-27384-4}
+  \field{title}{Digital Image Processing}
+  \list{location}{1}{%
+    {Californien}%
+  }
+  \field{year}{2007}
+\endentry
+
 \entry{RKDIP82-1}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -184,6 +209,7 @@
   \key{GONDIP01}
   \key{JAEDBV05}
   \key{MIEMTS07}
+  \key{PRADIP07}
   \key{RKDIP82-1}
   \key{RKDIP82-2}
   \key{STEBVP93}
