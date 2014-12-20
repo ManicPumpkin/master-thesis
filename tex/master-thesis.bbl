@@ -84,6 +84,30 @@
   \field{year}{2005}
 \endentry
 
+\entry{JAMVI95}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jain}{J.}%
+     {Ramesh}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {McGraw-Hill, Inc.}%
+  }
+  \strng{namehash}{JR1}
+  \strng{fullhash}{JR1}
+  \field{shorthand}{JAMVI95}
+  \field{label}{JAMVI95}
+  \field{sortinit}{J}
+  \field{isbn}{0-07-032018-7}
+  \field{title}{Machine Vision}
+  \list{location}{1}{%
+    {New York, NY, USA}%
+  }
+  \field{year}{1995}
+\endentry
+
 \entry{MIEMTS07}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -208,6 +232,7 @@
   \key{GOLME13}
   \key{GONDIP01}
   \key{JAEDBV05}
+  \key{JAMVI95}
   \key{MIEMTS07}
   \key{PRADIP07}
   \key{RKDIP82-1}
