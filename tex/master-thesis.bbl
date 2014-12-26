@@ -131,6 +131,30 @@
   \warn{\item Invalid format of field 'month'}
 \endentry
 
+\entry{OHSIMS09}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{O}hser}{O.}%
+     {{K}atja}{K.}%
+     {}{}%
+     {{J}oachim und~{S}chladitz}{J.~u.~S.}}%
+  }
+  \list{publisher}{1}{%
+    {WILEY-VCH Verlag GmbH & Co. KGaA}%
+  }
+  \strng{namehash}{OJuSK1}
+  \strng{fullhash}{OJuSK1}
+  \field{shorthand}{OHSIMS09}
+  \field{label}{OHSIMS09}
+  \field{sortinit}{O}
+  \field{isbn}{978-3-527-31203-0}
+  \field{title}{3D Images of Materials Structurs}
+  \list{location}{1}{%
+    {Weinheim}%
+  }
+  \field{year}{2009}
+\endentry
+
 \entry{PRADIP07}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -234,6 +258,7 @@
   \key{JAEDBV05}
   \key{JAMVI95}
   \key{MIEMTS07}
+  \key{OHSIMS09}
   \key{PRADIP07}
   \key{RKDIP82-1}
   \key{RKDIP82-2}
