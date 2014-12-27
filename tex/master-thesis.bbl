@@ -16,6 +16,44 @@
   {}
 \endgroup
 
+\entry{ADIPR01}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{A}dler}{A.}%
+     {{M}ichael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AM1}
+  \strng{fullhash}{AM1}
+  \field{shorthand}{ADIPR01}
+  \field{label}{ADIPR01}
+  \field{sortinit}{A}
+  \field{title}{An Introduction to Pattern Recognition}
+  \field{year}{2001}
+\endentry
+
+\entry{DORMNT11}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Doria}{D.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DD1}
+  \strng{fullhash}{DD1}
+  \field{shorthand}{DORMNT11}
+  \field{label}{DORMNT11}
+  \field{sortinit}{D}
+  \field{title}{Moore Neighbor Tracing}
+  \list{institution}{1}{%
+    {Rensselaer Polytechnic Institute}%
+  }
+  \field{year}{2011}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{GOLME13}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -253,6 +291,8 @@
 \endentry
 
 \lossort
+  \key{ADIPR01}
+  \key{DORMNT11}
   \key{GOLME13}
   \key{GONDIP01}
   \key{JAEDBV05}

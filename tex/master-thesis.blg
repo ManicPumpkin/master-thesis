@@ -16,49 +16,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: master-thesis-blx.bib
 Database file #2: lecture.bib
 Warning--entry type for "MIEMTS07" isn't style-file defined
---line 158 of file lecture.bib
+--line 183 of file lecture.bib
 Biblatex version: 1.7
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 11 entries,
+You've used 13 entries,
             6019 wiz_defined-function locations,
-            1196 strings with 9248 characters,
-and the built_in function-call counts, 37705 in all, are:
-= -- 2055
-> -- 1149
-< -- 540
-+ -- 475
-- -- 278
-* -- 1999
-:= -- 2054
+            1207 strings with 9410 characters,
+and the built_in function-call counts, 43954 in all, are:
+= -- 2353
+> -- 1341
+< -- 623
++ -- 537
+- -- 328
+* -- 2348
+:= -- 2367
 add.period$ -- 0
-call.type$ -- 11
-change.case$ -- 394
-chr.to.int$ -- 37
-cite$ -- 40
-duplicate$ -- 4113
-empty$ -- 3775
-format.name$ -- 501
-if$ -- 8898
+call.type$ -- 13
+change.case$ -- 447
+chr.to.int$ -- 38
+cite$ -- 48
+duplicate$ -- 4833
+empty$ -- 4441
+format.name$ -- 598
+if$ -- 10372
 int.to.chr$ -- 0
-int.to.str$ -- 37
+int.to.str$ -- 42
 missing$ -- 0
-newline$ -- 267
-num.names$ -- 740
-pop$ -- 3181
+newline$ -- 307
+num.names$ -- 857
+pop$ -- 3820
 preamble$ -- 1
-purify$ -- 404
+purify$ -- 459
 quote$ -- 0
-skip$ -- 2466
+skip$ -- 2867
 stack$ -- 0
-substring$ -- 1712
-swap$ -- 1417
-text.length$ -- 265
-text.prefix$ -- 10
+substring$ -- 1906
+swap$ -- 1649
+text.length$ -- 313
+text.prefix$ -- 12
 top$ -- 1
-type$ -- 401
+type$ -- 477
 warning$ -- 0
-while$ -- 229
+while$ -- 263
 width$ -- 0
-write$ -- 255
+write$ -- 293
 (There was 1 warning)
