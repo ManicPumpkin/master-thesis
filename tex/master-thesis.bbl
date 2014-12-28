@@ -33,6 +33,25 @@
   \field{year}{2001}
 \endentry
 
+\entry{CHCRS08}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{C}heriet}{C.}%
+     {{N}awwaf und {L}iu {C}hen-lin und {S}uen~{C}hing}{N.~u. L. C.-l. u.
+  S.~C.}%
+     {}{}%
+     {{M}ohammed und~{K}harma}{M.~u.~K.}}%
+  }
+  \strng{namehash}{CMuKNuLCluSC1}
+  \strng{fullhash}{CMuKNuLCluSC1}
+  \field{shorthand}{CHCRS08}
+  \field{label}{CHCRS08}
+  \field{sortinit}{C}
+  \field{title}{Character Recognition Systems: A Guide for Students and
+  Practitoners}
+  \field{year}{2008}
+\endentry
+
 \entry{DORMNT11}{article}{}
   \name{author}{1}{}{%
     {{}%
@@ -316,6 +335,7 @@
 
 \lossort
   \key{ADIPR01}
+  \key{CHCRS08}
   \key{DORMNT11}
   \key{GOLME13}
   \key{GONDIP01}
