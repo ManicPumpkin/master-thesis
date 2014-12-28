@@ -193,6 +193,30 @@
   \field{year}{2009}
 \endentry
 
+\entry{PAVAIP82}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{P}avlids}{P.}%
+     {{T}heo}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Springer Verlag}%
+  }
+  \strng{namehash}{PT1}
+  \strng{fullhash}{PT1}
+  \field{shorthand}{PAVAIP82}
+  \field{label}{PAVAIP82}
+  \field{sortinit}{P}
+  \field{isbn}{978-3-642-93210-6}
+  \field{title}{Algorithms for Graphics and Image Processing}
+  \list{location}{1}{%
+    {Berlin - Heidelberg}%
+  }
+  \field{year}{1982}
+\endentry
+
 \entry{PRADIP07}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -299,6 +323,7 @@
   \key{JAMVI95}
   \key{MIEMTS07}
   \key{OHSIMS09}
+  \key{PAVAIP82}
   \key{PRADIP07}
   \key{RKDIP82-1}
   \key{RKDIP82-2}
