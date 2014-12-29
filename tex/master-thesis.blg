@@ -2,6 +2,8 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master-thesis.aux
 The style file: biblatex.bst
+A level-1 auxiliary file: jseg_new.aux
+A level-1 auxiliary file: jseg.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -15,246 +17,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: master-thesis-blx.bib
 Database file #2: lecture.bib
-You're missing a field name---line 175 of file lecture.bib
- :  title   = {Character Recognition Systems: A Guide for Students and Practitoners},
- :                                                                                   ,
-I'm skipping whatever remains of this entry
 Warning--entry type for "MIEMTS07" isn't style-file defined
 --line 194 of file lecture.bib
+Warning--entry type for "WICSS15" isn't style-file defined
+--line 206 of file lecture.bib
 Biblatex version: 1.7
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2500 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2504 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2504 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2504 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2504 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2504 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2504 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2510 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2510 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2510 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2510 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2510 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2510 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2514 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2518 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2518 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2518 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2518 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2518 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2518 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2524 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2524 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2524 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2524 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2524 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2524 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2528 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2582 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2582 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2582 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2582 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2582 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2582 of file biblatex.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-Too many commas in name 1 of "{C}heriet, {M}ohammed und {K}harma, {N}awwaf und {L}iu, {C}hen-lin und {S}uen, {C}hing" for entry CHCRS08
-while executing---line 2645 of file biblatex.bst
-You've used 15 entries,
+You've used 16 entries,
             6019 wiz_defined-function locations,
-            1219 strings with 9710 characters,
-and the built_in function-call counts, 50334 in all, are:
-= -- 2661
-> -- 1533
-< -- 707
-+ -- 601
-- -- 378
-* -- 2713
-:= -- 2687
+            1228 strings with 9910 characters,
+and the built_in function-call counts, 57810 in all, are:
+= -- 3029
+> -- 1885
+< -- 828
++ -- 777
+- -- 522
+* -- 3373
+:= -- 3134
 add.period$ -- 0
-call.type$ -- 15
-change.case$ -- 503
-chr.to.int$ -- 38
-cite$ -- 56
-duplicate$ -- 5568
-empty$ -- 5118
-format.name$ -- 696
-if$ -- 11873
+call.type$ -- 16
+change.case$ -- 576
+chr.to.int$ -- 54
+cite$ -- 60
+duplicate$ -- 6327
+empty$ -- 5674
+format.name$ -- 889
+if$ -- 13572
 int.to.chr$ -- 0
-int.to.str$ -- 48
+int.to.str$ -- 52
 missing$ -- 0
-newline$ -- 350
-num.names$ -- 979
-pop$ -- 4452
+newline$ -- 417
+num.names$ -- 1087
+pop$ -- 4808
 preamble$ -- 1
-purify$ -- 517
+purify$ -- 604
 quote$ -- 0
-skip$ -- 3277
+skip$ -- 3739
 stack$ -- 0
-substring$ -- 2112
-swap$ -- 1891
-text.length$ -- 361
-text.prefix$ -- 14
+substring$ -- 2462
+swap$ -- 2170
+text.length$ -- 424
+text.prefix$ -- 15
 top$ -- 1
-type$ -- 553
+type$ -- 586
 warning$ -- 0
-while$ -- 297
+while$ -- 328
 width$ -- 0
-write$ -- 334
-(There were 97 error messages)
+write$ -- 400
+(There were 2 warnings)

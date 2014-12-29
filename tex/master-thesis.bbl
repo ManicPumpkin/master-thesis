@@ -34,19 +34,37 @@
 \endentry
 
 \entry{CHCRS08}{book}{}
-  \name{author}{1}{}{%
+  \name{author}{4}{}{%
     {{}%
      {{C}heriet}{C.}%
-     {{N}awwaf und {L}iu {C}hen-lin und {S}uen~{C}hing}{N.~u. L. C.-l. u.
-  S.~C.}%
+     {{M}ohammed}{M.}%
      {}{}%
-     {{M}ohammed und~{K}harma}{M.~u.~K.}}%
+     {}{}}%
+    {{}%
+     {{K}harma}{K.}%
+     {{N}awwaf}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{L}iu}{L.}%
+     {{C}hen-lin}{C.-l.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{S}uen}{S.}%
+     {{C}hing}{C.}%
+     {}{}%
+     {}{}}%
   }
-  \strng{namehash}{CMuKNuLCluSC1}
-  \strng{fullhash}{CMuKNuLCluSC1}
+  \list{publisher}{1}{%
+    {Wiley-Interscience}%
+  }
+  \strng{namehash}{CM+1}
+  \strng{fullhash}{CMKNLClSC1}
   \field{shorthand}{CHCRS08}
   \field{label}{CHCRS08}
   \field{sortinit}{C}
+  \field{isbn}{978-0471415701}
   \field{title}{Character Recognition Systems: A Guide for Students and
   Practitoners}
   \field{year}{2008}
@@ -69,8 +87,8 @@
   \list{institution}{1}{%
     {Rensselaer Polytechnic Institute}%
   }
+  \field{month}{10}
   \field{year}{2011}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{GOLME13}{misc}{}
@@ -92,18 +110,23 @@
 \endentry
 
 \entry{GONDIP01}{book}{}
-  \name{author}{1}{}{%
+  \name{author}{2}{}{%
     {{}%
      {Gonzalez}{G.}%
+     {Rafael~C.}{R.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Woods}{W.}%
      {Richard~E.}{R.~E.}%
      {}{}%
-     {Rafael C. und~Woods}{R.~C. u.~W.}}%
+     {}{}}%
   }
   \list{publisher}{1}{%
     {Addison-Wesley Longman Publishing Co., Inc.}%
   }
-  \strng{namehash}{GRCuWRE1}
-  \strng{fullhash}{GRCuWRE1}
+  \strng{namehash}{GRCWRE1}
+  \strng{fullhash}{GRCWRE1}
   \field{shorthand}{GONDIP01}
   \field{label}{GONDIP01}
   \field{sortinit}{G}
@@ -184,23 +207,28 @@
     {University of Applied Sciences Berlin}%
   }
   \field{type}{Diplomarbeit}
+  \field{month}{09}
   \field{year}{2007}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{OHSIMS09}{book}{}
-  \name{author}{1}{}{%
+  \name{author}{2}{}{%
     {{}%
      {{O}hser}{O.}%
+     {{J}oachim}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {{S}chladitz}{S.}%
      {{K}atja}{K.}%
      {}{}%
-     {{J}oachim und~{S}chladitz}{J.~u.~S.}}%
+     {}{}}%
   }
   \list{publisher}{1}{%
     {WILEY-VCH Verlag GmbH \& Co. KGaA}%
   }
-  \strng{namehash}{OJuSK1}
-  \strng{fullhash}{OJuSK1}
+  \strng{namehash}{OJSK1}
+  \strng{fullhash}{OJSK1}
   \field{shorthand}{OHSIMS09}
   \field{label}{OHSIMS09}
   \field{sortinit}{O}
@@ -237,18 +265,23 @@
 \endentry
 
 \entry{PRADIP07}{book}{}
-  \name{author}{1}{}{%
+  \name{author}{2}{}{%
     {{}%
      {{P}ratt}{P.}%
+     {{W}illiam~K.}{W.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jr.}{J.}%
      {{J}ames E.~{A}dams}{J.~E.~A.}%
      {}{}%
-     {{W}illiam K. und~Jr.}{W.~K. u.~J.}}%
+     {}{}}%
   }
   \list{publisher}{1}{%
     {PixelSoft, Inc.}%
   }
-  \strng{namehash}{PWKuJJEA1}
-  \strng{fullhash}{PWKuJJEA1}
+  \strng{namehash}{PWKJJEA1}
+  \strng{fullhash}{PWKJJEA1}
   \field{shorthand}{PRADIP07}
   \field{label}{PRADIP07}
   \field{sortinit}{P}
@@ -262,19 +295,24 @@
 \endentry
 
 \entry{RKDIP82-1}{book}{}
-  \name{author}{1}{}{%
+  \name{author}{2}{}{%
     {{}%
      {Rosenfeld}{R.}%
+     {Azriel}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kak}{K.}%
      {Avinash~C.}{A.~C.}%
      {}{}%
-     {Azriel und~Kak}{A.~u.~K.}}%
+     {}{}}%
   }
   \list{publisher}{1}{%
     {Academic Press, Inc.}%
   }
   \keyw{DIGITAL IMAGE PROCESSING}
-  \strng{namehash}{RAuKAC1}
-  \strng{fullhash}{RAuKAC1}
+  \strng{namehash}{RAKAC1}
+  \strng{fullhash}{RAKAC1}
   \field{shorthand}{RKDIP82-1}
   \field{label}{RKDIP82-1}
   \field{sortinit}{R}
@@ -286,19 +324,24 @@
 \endentry
 
 \entry{RKDIP82-2}{book}{}
-  \name{author}{1}{}{%
+  \name{author}{2}{}{%
     {{}%
      {Rosenfeld}{R.}%
+     {Azriel}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kak}{K.}%
      {Avinash~C.}{A.~C.}%
      {}{}%
-     {Azriel und~Kak}{A.~u.~K.}}%
+     {}{}}%
   }
   \list{publisher}{1}{%
     {Academic Press, Inc.}%
   }
   \keyw{DIGITAL IMAGE PROCESSING}
-  \strng{namehash}{RAuKAC1}
-  \strng{fullhash}{RAuKAC1}
+  \strng{namehash}{RAKAC1}
+  \strng{fullhash}{RAKAC1}
   \field{shorthand}{RKDIP82-2}
   \field{label}{RKDIP82-2}
   \field{sortinit}{R}
@@ -333,6 +376,29 @@
   \field{year}{1993}
 \endentry
 
+\entry{WICSS15}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wilhelm}{W.}%
+     {Marco}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WM1}
+  \strng{fullhash}{WM1}
+  \field{shorthand}{WICSS15}
+  \field{label}{WICSS15}
+  \field{sortinit}{W}
+  \field{title}{Bildklassifikation auf Basis des Curvature Scale Space zur
+  Formbeschreibung}
+  \list{institution}{1}{%
+    {University of Applied Sciences Schmalkalden}%
+  }
+  \field{type}{Master Thesis}
+  \field{month}{02}
+  \field{year}{2015}
+\endentry
+
 \lossort
   \key{ADIPR01}
   \key{CHCRS08}
@@ -348,6 +414,7 @@
   \key{RKDIP82-1}
   \key{RKDIP82-2}
   \key{STEBVP93}
+  \key{WICSS15}
 \endlossort
 
 \endinput
