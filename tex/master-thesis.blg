@@ -2,8 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master-thesis.aux
 The style file: biblatex.bst
-A level-1 auxiliary file: jseg_new.aux
-A level-1 auxiliary file: jseg.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -26,7 +24,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 You've used 16 entries,
             6019 wiz_defined-function locations,
-            1228 strings with 9910 characters,
+            1226 strings with 9890 characters,
 and the built_in function-call counts, 57810 in all, are:
 = -- 3029
 > -- 1885
