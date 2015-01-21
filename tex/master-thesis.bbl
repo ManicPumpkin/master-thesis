@@ -352,6 +352,29 @@
   \field{year}{1982}
 \endentry
 
+\entry{RUPRA11}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Rubner}{R.}%
+     {Danny}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RD1}
+  \strng{fullhash}{RD1}
+  \field{shorthand}{RUPRA11}
+  \field{label}{RUPRA11}
+  \field{sortinit}{R}
+  \field{title}{Prädiktion von Mangelcodes für die KFZ-Hauptuntersuchung mit
+  dem Verfahren der Computergestützen Intelligenz}
+  \list{institution}{1}{%
+    {University of Applied Sciences Schmalkalden}%
+  }
+  \field{type}{Bachelor Thesis}
+  \field{month}{12}
+  \field{year}{2011}
+\endentry
+
 \entry{STEBVP93}{book}{}
   \name{author}{1}{}{%
     {{}%
@@ -413,6 +436,7 @@
   \key{PRADIP07}
   \key{RKDIP82-1}
   \key{RKDIP82-2}
+  \key{RUPRA11}
   \key{STEBVP93}
   \key{WICSS15}
 \endlossort

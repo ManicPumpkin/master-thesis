@@ -19,48 +19,50 @@ Warning--entry type for "MIEMTS07" isn't style-file defined
 --line 194 of file lecture.bib
 Warning--entry type for "WICSS15" isn't style-file defined
 --line 206 of file lecture.bib
+Warning--entry type for "RUPRA11" isn't style-file defined
+--line 218 of file lecture.bib
 Biblatex version: 1.7
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-You've used 16 entries,
+You've used 17 entries,
             6019 wiz_defined-function locations,
-            1226 strings with 9890 characters,
-and the built_in function-call counts, 57810 in all, are:
-= -- 3029
-> -- 1885
-< -- 828
-+ -- 777
-- -- 522
-* -- 3373
-:= -- 3134
+            1231 strings with 10043 characters,
+and the built_in function-call counts, 61985 in all, are:
+= -- 3283
+> -- 2019
+< -- 900
++ -- 840
+- -- 550
+* -- 3564
+:= -- 3329
 add.period$ -- 0
-call.type$ -- 16
-change.case$ -- 576
-chr.to.int$ -- 54
-cite$ -- 60
-duplicate$ -- 6327
-empty$ -- 5674
-format.name$ -- 889
-if$ -- 13572
+call.type$ -- 17
+change.case$ -- 630
+chr.to.int$ -- 60
+cite$ -- 64
+duplicate$ -- 6786
+empty$ -- 6073
+format.name$ -- 938
+if$ -- 14570
 int.to.chr$ -- 0
-int.to.str$ -- 52
+int.to.str$ -- 55
 missing$ -- 0
-newline$ -- 417
-num.names$ -- 1087
-pop$ -- 4808
+newline$ -- 440
+num.names$ -- 1174
+pop$ -- 5123
 preamble$ -- 1
-purify$ -- 604
+purify$ -- 659
 quote$ -- 0
-skip$ -- 3739
+skip$ -- 4023
 stack$ -- 0
-substring$ -- 2462
-swap$ -- 2170
-text.length$ -- 424
-text.prefix$ -- 15
+substring$ -- 2701
+swap$ -- 2328
+text.length$ -- 450
+text.prefix$ -- 16
 top$ -- 1
-type$ -- 586
+type$ -- 619
 warning$ -- 0
-while$ -- 328
+while$ -- 350
 width$ -- 0
-write$ -- 400
-(There were 2 warnings)
+write$ -- 422
+(There were 3 warnings)
