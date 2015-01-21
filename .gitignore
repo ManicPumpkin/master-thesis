@@ -2,7 +2,7 @@
 
 # Folders
 src/org/
-src/dat/
+dat/
 
 # LaTeX Files
 *.pdf
