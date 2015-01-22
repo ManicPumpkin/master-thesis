@@ -53,8 +53,13 @@
 \BOOKMARK [4][-]{paragraph.7.1.2.3}{ImageManipulation}{subsubsection.7.1.2}% 53
 \BOOKMARK [3][-]{subsubsection.7.1.3}{Programmablauf und Ergebnis}{subsection.7.1}% 54
 \BOOKMARK [2][-]{subsection.7.2}{Prototyp jav\137coeff}{section.7}% 55
-\BOOKMARK [2][-]{subsection.7.3}{Prototyp jav\137fourier}{section.7}% 56
-\BOOKMARK [1][-]{section.8}{Resum\351}{}% 57
-\BOOKMARK [1][-]{section.9}{Anhang}{}% 58
-\BOOKMARK [1][-]{section.10}{Glossar}{}% 59
-\BOOKMARK [1][-]{section.11}{Literaturverzeichnis}{}% 60
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Aufbau}{subsection.7.2}% 56
+\BOOKMARK [3][-]{subsubsection.7.2.2}{Klassenimplementierung}{subsection.7.2}% 57
+\BOOKMARK [4][-]{paragraph.7.2.2.1}{Coefficients}{subsubsection.7.2.2}% 58
+\BOOKMARK [4][-]{paragraph.7.2.2.2}{Andere Klassen}{subsubsection.7.2.2}% 59
+\BOOKMARK [3][-]{subsubsection.7.2.3}{Programmablauf und Ergebnis}{subsection.7.2}% 60
+\BOOKMARK [2][-]{subsection.7.3}{Prototyp jav\137fourier}{section.7}% 61
+\BOOKMARK [1][-]{section.8}{Resum\351}{}% 62
+\BOOKMARK [1][-]{section.9}{Anhang}{}% 63
+\BOOKMARK [1][-]{section.10}{Glossar}{}% 64
+\BOOKMARK [1][-]{section.11}{Literaturverzeichnis}{}% 65
