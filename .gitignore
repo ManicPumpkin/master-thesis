@@ -3,6 +3,7 @@
 # Folders
 src/org/
 dat/
+_dat/
 
 # LaTeX Files
 *.pdf
@@ -23,3 +24,4 @@ dat/
 hs_err_pid*
 /jav/jav_coeff/nbproject/private/
 /jav/jav_coeff/build/
+/jav/jav_coeff/dist/
