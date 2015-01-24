@@ -10,6 +10,8 @@ tst/
 *.toc
 *.log
 *.aux
+*.properties
+*.xml
 *.synctex.gz
 
 # Mobile Tools for Java (J2ME)
