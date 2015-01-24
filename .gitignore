@@ -3,7 +3,7 @@
 # Folders
 src/org/
 dat/
-_dat/
+tst/
 
 # LaTeX Files
 *.pdf
